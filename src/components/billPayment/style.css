@@ -1,0 +1,27 @@
+.addbiller {
+    color: white;
+    background-color: blueviolet;
+    border-radius: 5px;
+    border: blueviolet;
+}
+.bill {
+    background-color: white;
+}
+.bank {
+    color: blueviolet;
+}
+.icon {
+    align-self: end;
+}
+.cards {
+    width: 20rem;
+    border: 1px solid rgb(143, 69, 213);
+}
+.transfer {
+    color: blueviolet;
+    background-color: white;
+}
+.details {
+    color: blueviolet;
+    background-color: white;
+}
